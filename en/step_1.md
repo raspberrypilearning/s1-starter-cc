@@ -1,6 +1,6 @@
 ## Introduction
 
-ADD DESCRIPTION
+There are 3 sections in the Starter: Pre-Module Survey, Skills Animation and Skills Sorting Game. Please make sure you complete all of the activities. Tick them off as you complete them.
 
 ### Pre-Module Survey
 
