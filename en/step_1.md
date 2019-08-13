@@ -1,58 +1,29 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+ADD DESCRIPTION
 
-### What you will make
+### Pre-Module Survey
 
---- no-print ---
-Add instructions for using the embedded content here.
+Please complete this pre-module survey before you start the module:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+<script id="ss-embed-734054">(function(d,w){var s,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=627146&c=734054';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script><div>Create your own online surveys with <a href="https://www.smartsurvey.co.uk">SmartSurvey</a>.</div>
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### Skills Animation
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Click on the green flag to begin the animation on Skills in Computing.
 
-+ Describe hardware here
+You can watch this as a group or on your own.
 
-### Software
+Either read the text or, if you’ve got access to sound, you can also listen to the narration of the text.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Tick off the activity when you have completed it.
 
-### Downloads
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+### Skills Sorting Game
 
---- /collapse ---
+Click on the green flag to begin the Skills Sorting game. As with all activities, tick it off when you have completed it.
 
---- collapse ---
----
-title: What you will learn
----
+Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
 
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+ <iframe allowtransparency="true" width="485" height="402" src=" https://scratch.mit.edu/projects/80628358" frameborder="0" scrolling="no"></iframe>
