@@ -23,7 +23,7 @@ Please complete this pre-module survey before you start the module:
 
 Click on the green flag to begin the animation on Skills in Computing.
 
-You can watch this as a group or on your own.
+You can watch the animation as a group or on your own.
 
 Either read the text or, if you’ve got access to sound, you can also listen to a narration of the text.
 
