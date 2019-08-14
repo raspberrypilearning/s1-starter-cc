@@ -2,12 +2,12 @@
 
 There are 3 sections in the Starter:
 1. Pre-Module Survey
-2. Skills Animation
-3. Skills Sorting Game
+2. Animation: Skills in careers that involve Computing
+3. Game: Skills Sorting
 
 Please make sure you complete all of the activities and tick them off as you complete them.
 
-### Pre-Module Survey
+### 1. Pre-Module Survey
 
 --- task ---
 
@@ -17,7 +17,7 @@ Please complete this pre-module survey before you start the module:
 
 --- /task ---
 
-### Skills Animation
+### 2. Animation: Skills in careers that involve Computing
 
 --- task ---
 
@@ -33,7 +33,7 @@ Tick off the activity when you have completed it.
 
 --- /task ---
 
-### Skills Sorting Game
+### 3. Game: Skills Sorting
 
 --- task ---
 
