@@ -1,4 +1,4 @@
-## Introduction
+## Starter
 
 There are 3 sections in the Starter:
 1. Pre-Module Survey,
