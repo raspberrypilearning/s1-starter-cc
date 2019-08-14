@@ -21,7 +21,7 @@ Please complete this pre-module survey before you start the module:
 
 --- task ---
 
-Click on the green flag to begin the animation on Skills in Computing.
+Click on the green flag to begin the animation on skills in careers that involve Computing.
 
 You can watch the animation as a group or on your own.
 
