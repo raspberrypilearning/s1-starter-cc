@@ -1,11 +1,11 @@
 ## Starter
 
 There are 3 sections in the Starter:
-1. Pre-Module Survey,
-2. Skills Animation; and
-3. Skills Sorting Game.
+1. Pre-Module Survey
+2. Skills Animation
+3. Skills Sorting Game
 
-Please make sure you complete all of the activities. Please tick them off as you complete them.
+Please make sure you complete all of the activities and tick them off as you complete them.
 
 ### Pre-Module Survey
 
@@ -25,7 +25,7 @@ Click on the green flag to begin the animation on Skills in Computing.
 
 You can watch this as a group or on your own.
 
-Either read the text or, if you’ve got access to sound, you can also listen to the narration of the text.
+Either read the text or, if you’ve got access to sound, you can also listen to a narration of the text.
 
 Tick off the activity when you have completed it.
 
