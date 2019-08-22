@@ -12,7 +12,7 @@ Please make sure you complete all of the activities and tick them off as you com
 --- task ---
 
 Please complete this pre-module survey before you start the module:
-<script id="ss-embed-734054">(function(d,w){vars,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=627146&c=734054';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script>
+<script>(function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd6o_2FIAis9_2Fzcdoxy9RizdE4oh876LROzK55SRtCZiMaA.js"].join(""),a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
 
 --- /task ---
 
