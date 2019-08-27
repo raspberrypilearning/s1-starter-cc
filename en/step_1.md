@@ -12,6 +12,7 @@ Please make sure you complete all of the activities and tick them off as you com
 --- task ---
 
 Please complete this pre-module survey before you start the module:
+
 <script id="ss-embed-734054">(function(d,w){var s,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=627146&c=734054';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script>
 
 --- /task ---
