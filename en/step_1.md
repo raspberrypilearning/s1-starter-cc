@@ -41,6 +41,6 @@ Click on the green flag to begin the Skills Sorting game. As with all activities
 
 Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
 
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/80628358?autostart=false" frameborder="0" scrolling="no"></iframe>
+If you have a Scratch account click this link to log in and play the Skills Sorting Game - [link to the specific module - we're gathering data on what game they complete]. If you don't have a Scratch account, click this link to play the Skills Sorting Game [version without clouds]
 
 --- /task ---
