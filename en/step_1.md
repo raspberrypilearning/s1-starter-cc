@@ -25,9 +25,9 @@ You can watch the animation as a group or on your own.
 
 As with all activities, tick it off when you have completed it.
 
---- /task ---
-
 Click on the green flag to begin the animation. Remember, when you have finished the animation, click on the 'go back' button on your browser window to come back to this Starter activity:
+
+--- /task ---
 
 <a href="https://scratch.mit.edu/projects/325793079">
 <img src="images/animation.png">
