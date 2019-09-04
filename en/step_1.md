@@ -43,3 +43,8 @@ Click on the green flag to begin the Skills Sorting game. When you have finished
 Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
 
 --- /task ---
+
+Click on the ‘Click me’ button to do back to the Scratch 1 Module pathway and begin the projects.
+
+<a href="https://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
