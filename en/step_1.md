@@ -21,30 +21,32 @@ Please complete this pre-module survey before you start the module:
 
 --- task ---
 
-You can watch the animation as a group or on your own.
+You can watch the animation as a group or on your own. 
 
-As with all activities, tick it off when you have completed it.
+Click the image below to play the animation. Remember, when you have finished watching the animation, click on the 'go back' arrow in your browser window to come back to this Starter activity. 
 
-Click on the green flag to begin the animation. Remember, when you have finished the animation, click on the 'go back' button on your browser window to come back to this Starter activity:
-
---- /task ---
+Tick off the activity once you have completed it:
 
 <a href="https://scratch.mit.edu/projects/325793079">
 <img src="images/animation.png">
+
+--- /task ---
 
 ### 3. Game: Skills Sorting
 
 --- task ---
 
-If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271523) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting Game.
+If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271523) to log in and play the Skills Sorting game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting game.
 
-Click on the green flag to begin the Skills Sorting game. When you have finished the game, click on the go back button on your browser window to come back to this Starter activity. As with all activities, tick it off when you have completed it.
+Once you have opened the game, click on the green flag to begin. When you have finished playing the game, click on the 'go back' arrow in your browser window to come back to this Starter activity.
 
-Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
+Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :) 
+
+As with all activities, tick this activity off when you have completed it.
 
 --- /task ---
 
-Click on the ‘Click me’ button to go back to the Scratch 1 Module pathway and begin the projects.
+Click on the ‘Click me’ button below to go back to the HTML & CSS Module pathway to begin the projects.
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
