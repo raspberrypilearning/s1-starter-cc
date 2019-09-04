@@ -31,6 +31,8 @@ Tick off the activity once you have completed it:
 <img src="images/animation.png">
 </a>
 
+--- /task ---
+
 ### 3. Game: Skills Sorting
 
 --- task ---
