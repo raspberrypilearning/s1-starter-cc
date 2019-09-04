@@ -29,7 +29,10 @@ Tick off the activity when you have completed it.
 
 --- /task ---
 
-<iframe src="https://scratch.mit.edu/projects/325793079/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+Click on this image to play the animation:
+
+<a href="https://scratch.mit.edu/projects/325793079">
+<img src="images/animation.png">
 
 ### 3. Game: Skills Sorting
 
