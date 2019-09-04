@@ -30,8 +30,6 @@ Tick off the activity once you have completed it:
 <a href="https://scratch.mit.edu/projects/325793079">
 <img src="images/animation.png">
 
---- /task ---
-
 ### 3. Game: Skills Sorting
 
 --- task ---
